@@ -8,7 +8,7 @@ This portfolio demonstrates my work readiness.
 
 ### **EVIDENCE**
 
-<img width="1774" height="939" alt="image" src="https://github.com/user-attachments/assets/7c08f14a-de80-458d-b9ca-2b9b13fa10dd" />
+<img width="1830" height="745" alt="image" src="https://github.com/user-attachments/assets/2cb5a4d9-caf3-4643-8175-dff5870ff76a" />
 
 ### **REFLECTION: STAR TECHNIQUE**
 
@@ -23,7 +23,8 @@ This portfolio demonstrates my work readiness.
 
 ### **EVIDENCE**
 
-<img width="1752" height="801" alt="image" src="https://github.com/user-attachments/assets/9ed592d9-14b9-4d37-986d-46e003bd754e" />
+<img width="1745" height="947" alt="image" src="https://github.com/user-attachments/assets/8bde213e-1dbc-4877-a8cb-77655821a3eb" />
+
 
 ### **REFLECTION: STAR TECHNIQUE**
 
@@ -38,7 +39,7 @@ This portfolio demonstrates my work readiness.
 
 ### **EVIDENCE**
 
-[Mock Interview Recording](https://github.com/user-attachments/assets/8992e485-4412-49bf-b77f-efd9b8d8eeff)
+https://github.com/user-attachments/assets/83072da6-102d-4f6a-9044-ee814ad3252d
 
 ### **REFLECTION: STAR TECHNIQUE**
 
@@ -53,7 +54,7 @@ This portfolio demonstrates my work readiness.
 
 ### **EVIDENCE**
 
-<img width="1801" height="805" alt="image" src="https://github.com/user-attachments/assets/cf2d24b3-583b-4b24-820c-44edcea74467" />
+<img width="1804" height="822" alt="image" src="https://github.com/user-attachments/assets/c21d6799-1d9b-475c-a52e-217d78a14655" />
 
 ### **REFLECTION: STAR TECHNIQUE**
 
@@ -68,7 +69,7 @@ This portfolio demonstrates my work readiness.
 
 ### **EVIDENCE**
 
-<img width="1583" height="697" alt="image" src="https://github.com/user-attachments/assets/3541252f-30d7-42db-a3a8-7418c601c6b8" />
+<img width="1613" height="683" alt="image" src="https://github.com/user-attachments/assets/d73678ab-5241-476e-a232-b33e40e96ca5" />
 
 ### **REFLECTION: STAR TECHNIQUE**
 
